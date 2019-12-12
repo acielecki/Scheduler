@@ -1,0 +1,35 @@
+5
+Hugh Guerrero
+Monday 9:00-17:00
+Tuesday off
+Wednesday 9:00-17:00
+Thursday off
+Friday 9:00-17:00
+
+Dwayne Rogers
+Monday 7:00-14:00
+Tuesday 9:00-17:00
+Wednesday 7:00-14:00
+Thursday 9:00-17:00
+Friday 7:00-14:00
+
+Krystal Casey
+Monday 8:30-12:00
+Tuesday 8:30-12:00
+Wednesday 8:30-12:00
+Thursday 8:30-12:00
+Friday off
+
+Emmett McDaniel
+Monday off
+Tuesday 12:00-17:00
+Wednesday off
+Thursday 12:00-17:00
+Friday off
+
+Matthew Medina
+Monday 8:00-15:00
+Tuesday 8:00-15:00
+Wednesday 8:00-15:00
+Thursday 8:00-15:00
+Friday 8:00-15:00
